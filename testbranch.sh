@@ -1,2 +1,4 @@
  echo '' testing the branches by merging "
-test again 
+test again
+
+Just updating tocheck remo mapping done or not done
